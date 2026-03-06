@@ -1,5 +1,5 @@
 # CAT-S22-WeatherStar4000
-android web wrapper for [NetByMatt's WeatherStar400 web port](https://github.com/netbymatt/ws4kp), designed for CAT S22 Flip's external display 
+android web wrapper for [NetByMatt's WeatherStar4000 web port](https://github.com/netbymatt/ws4kp), designed for CAT S22 Flip's external display 
 
 <img src="./screenshots/externalscreen.gif" width="50%"/>
 <img src="./screenshots/screenshot.jpg" width="50%"/>
