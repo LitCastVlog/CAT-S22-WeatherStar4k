@@ -9,7 +9,7 @@ build using [Android Studio](https://developer.android.com/studio) API 30 (andro
 - use volume key to initiate external screen video (same as VLC, haven't figured out complete autoplay yet)
 - external display works while app is in background
 - dpad content navigation (while screen opened)
-- get [KIOSK permashare URL](https://github.com/netbymatt/ws4kp?tab=readme-ov-file#kiosk-mode) from [NetByMatt's WeatherStar4000 web port or selfhosted url](https://github.com/netbymatt/ws4kp)
+### Grab [KIOSK permashare URL](https://github.com/netbymatt/ws4kp?tab=readme-ov-file#kiosk-mode) from [NetByMatt's WeatherStar4000 web port or selfhosted url](https://github.com/netbymatt/ws4kp)
 <img src="./screenshots/urlprompt.jpg" width="50%"/>
 
 you could also theoretically use this for any url, but a static/animated page like above works best (uses basic android webview)
