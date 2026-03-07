@@ -1,4 +1,4 @@
-android web wrapper for [NetByMatt's WeatherStar4000 web port](https://github.com/netbymatt/ws4kp), designed for CAT/Unifone S22 Flip's external display, no root needed. 
+android web wrapper for [NetByMatt's WeatherStar4000/3000 web ports](https://github.com/netbymatt/ws4kp), designed for CAT/Unifone S22 Flip's external display, no root needed. 
 
 <img src="./screenshots/externalscreen.gif" width="50%"/>
 <img src="./screenshots/screenshot.jpg" width="50%"/>
@@ -9,7 +9,7 @@ build using [Android Studio](https://developer.android.com/studio) API 30 (andro
 - use volume key to initiate external screen video (same as VLC, haven't figured out complete autoplay yet)
 - external display works while app is in background
 - dpad content navigation (while screen opened)
-### Grab [KIOSK permashare URL](https://github.com/netbymatt/ws4kp?tab=readme-ov-file#kiosk-mode) from [NetByMatt's WeatherStar4000 web port or selfhosted url](https://github.com/netbymatt/ws4kp) 
+### Grab [KIOSK permashare URL](https://github.com/netbymatt/ws4kp?tab=readme-ov-file#kiosk-mode) from [NetByMatt's WeatherStar4000/3000 web ports or selfhosted url](https://github.com/netbymatt/ws4kp) 
 - (for locations outside US, use [mwood77's ws4kp-intl](https://github.com/mwood77/ws4kp-international))
 <img src="./screenshots/urlprompt.jpg" width="50%"/>
 
