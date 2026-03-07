@@ -19,6 +19,6 @@ you could also theoretically use this for any url, but a static/animated page li
 ###### build using [Android Studio](https://developer.android.com/studio) API 30 (android 11+) 
 
 - [MainActivity.kt](/app/src/main/java/com/litcast/ws4kp/MainActivity.kt) is the main config 
-- [WeatherPresentation.kt](app/src/main/java/com/litcast/ws4kp/WeatherPresentation.kt) is the external screen config
+- [WeatherPresentation.kt](app/src/main/java/com/litcast/ws4kp/WeatherPresentation.kt) is the outer screen config
  
   you can replace the prompt with direct urls there if preferred
